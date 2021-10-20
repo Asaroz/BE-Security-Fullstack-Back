@@ -9,6 +9,7 @@ This is an example app demonstrating a backend that includes endpoints for user 
 
 ## TODO
 
-- proper controllers for improved routing and clarity
-- more secure endpoints for functionality
-- a separate folder for middleware
+- add proper controllers for improved routing and clarity
+- add more secured endpoints for functionality
+- add a separate folder for middleware
+- add validation and sanitation for *all* endpoints
