@@ -4,8 +4,10 @@ This is an example app demonstrating a backend that includes endpoints for user 
 
 # Usage
 
-- `npm i`     ; Install dependencies from package.json
-- `npm start` ; Start application with nodemon
+1. `cp .env.example .env` ; Prepare local environment variables file
+2. Add correct values to your local `.env`
+3. `npm i`     ; Install dependencies from package.json
+4. `npm start` ; Start application with nodemon
 
 ## TODO
 
